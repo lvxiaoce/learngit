@@ -4,3 +4,4 @@ Git is free software.
 我好帅
 git changes of files
 我真的真的好帅
+Creating a new branch is quick.
